@@ -17,7 +17,7 @@
     "qs": "^6.9.0",
     "stylus": "^0.54.7",
     "stylus-loader": "^3.0.2",
-    "swiper": "^5.0.4",
+    "swiper": "^6.5.1",
     "time-conversion": "^1.0.1",
     "time-formating": "^1.0.5",
     "vue": "^2.5.2",
